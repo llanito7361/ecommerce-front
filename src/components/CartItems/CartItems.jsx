@@ -83,9 +83,8 @@ const CartItems = () => {
       </div>
       {/* borrar a posteriori */}
       <button onClick={() => addToCart(all_product[0].id)}>
-        Add First Product
+          vamo Bokita
       </button>
-      <h1>at the end</h1>
     </div>
   );
 };
